@@ -70,7 +70,7 @@ TST/
    ```bash
    git clone https://github.com/username/Student-Attendance-Website.git
    ```
-2. Import database dari file `database.sql` ke MySQL.  
+2. Import database dari file `absensi_sc.sql` ke MySQL.  
 3. Ubah konfigurasi `config.php` sesuai dengan username, password, dan nama database.  
 4. Jalankan dengan XAMPP/Laragon, akses via:  
    ```
@@ -82,7 +82,7 @@ TST/
    ```bash
    git clone https://github.com/username/sistem-absensi.git
    ```
-2. Import the database from `database.sql` into MySQL.  
+2. Import the database from `absensi_sc.sql` into MySQL.  
 3. Edit `config.php` with your MySQL username, password, and database name.  
 4. Run via XAMPP/Laragon and access:  
    ```
@@ -102,11 +102,3 @@ TST/
 ![alt text](https://github.com/Narzetts/Student-Attendance-Website/blob/main/assets/Screenshot%202025-09-10%20190424.png?raw=true)
 
 ---
-
-## 🤝 Kontribusi / Contributing
-Pull Request sangat terbuka! Silakan fork repo ini dan buat fitur tambahan.  
-Pull Requests are welcome! Please fork this repo and add new features.
-
----
-
-
