@@ -98,7 +98,7 @@ TST/
 ---
 
 ## 📸 Screenshots
-
+![alt text](https://github.com/Narzetts/Student-Attendance-Website/blob/main/assets/Screenshot%202025-09-10%20190424.png?raw=true)
 
 ---
 
@@ -107,3 +107,4 @@ Pull Request sangat terbuka! Silakan fork repo ini dan buat fitur tambahan.
 Pull Requests are welcome! Please fork this repo and add new features.
 
 ---
+
