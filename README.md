@@ -80,7 +80,7 @@ TST/
 ### English
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/username/sistem-absensi.git
+   git clone https://github.com/username/Student-Attendance-Website.git
    ```
 2. Import the database from `absensi_sc.sql` into MySQL.  
 3. Edit `config.php` with your MySQL username, password, and database name.  
@@ -102,3 +102,4 @@ TST/
 ![alt text](https://github.com/Narzetts/Student-Attendance-Website/blob/main/assets/Screenshot%202025-09-10%20190424.png?raw=true)
 
 ---
+
